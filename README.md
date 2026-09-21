@@ -1,74 +1,68 @@
+<!-- ========================================================= -->
+<!--                    DIVAKAR G S                            -->
+<!--                 GitHub Profile README                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 # DIVAKAR G S
 
-### DevOps Engineer · Cloud · Automation
+### `DevOps` · `Cloud` · `Automation`
 
 Building infrastructure, automating workflows,
 and exploring cloud-native systems.
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/GSD27">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/divakar-g-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
+<!-- ======================= NAVIGATION ====================== -->
 
-I'm an aspiring DevOps Engineer interested in **cloud infrastructure,
-automation, containerization and scalable systems**.
+<div align="center">
 
-I enjoy understanding how systems work underneath the surface and
-turning manual processes into repeatable, automated workflows.
+**[ HOME](#-home)**
+&nbsp;&nbsp;•&nbsp;&nbsp;
+**[ STACK](#-toolbox)**
+&nbsp;&nbsp;•&nbsp;&nbsp;
+**[ PROJECTS](#-selected-work)**
+&nbsp;&nbsp;•&nbsp;&nbsp;
+**[ ACTIVITY](#-activity)**
+&nbsp;&nbsp;•&nbsp;&nbsp;
+**[ CONNECT](#-connect)**
 
----
-
-## Currently
-
-<table>
-<tr>
-<td width="50%">
-
-### Infrastructure
-
-- Linux
-- Networking
-- AWS
-- Terraform
-
-</td>
-
-<td width="50%">
-
-### Cloud Native
-
-- Docker
-- Kubernetes
-- CI/CD
-- GitHub Actions
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Technical Focus
+# 🏠 HOME
+
+Hey! I'm **Divakar**, an aspiring DevOps Engineer interested in
+building reliable infrastructure and automating the path from
+**code → container → deployment → cloud**.
+
+I enjoy learning by building real environments, breaking things,
+debugging them, and figuring out why they work.
 
 ```text
-Cloud              AWS
-Containers         Docker
-Orchestration      Kubernetes
-Infrastructure     Terraform
-CI/CD              Jenkins · GitHub Actions
-Operating Systems  Linux
-Version Control    Git
-Languages          Python · Java
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   CURRENT FOCUS                                      │
+│                                                      │
+│   Kubernetes      ████████████████░░░░               │
+│   Docker          █████████████████░░░               │
+│   AWS             ████████████░░░░░░░               │
+│   Terraform       ██████████░░░░░░░░░               │
+│   CI/CD           ███████████░░░░░░░░               │
+│   Linux           ██████████████████░               │
+│                                                      │
+└──────────────────────────────────────────────────────┘
