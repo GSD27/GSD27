@@ -1,123 +1,78 @@
-# 🧰 TOOLBOX
+<!-- ========================================================= -->
+<!--                    DIVAKAR G S                            -->
+<!--                 GitHub Profile README                     -->
+<!-- ========================================================= -->
 
-### ☁️ Cloud
+<div align="center">
 
-<p align="left">
+<!-- BANNER -->
+<img src="./assets/banner.png" width="100%" alt="Divakar G S Banner"/>
 
-<a href="https://aws.amazon.com/">
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-161616?logo=aws&logoColor=white" alt="AWS"/>
+<br><br>
+
+# DIVAKAR G S
+
+### `DevOps` · `Cloud` · `Automation`
+
+Building infrastructure. Automating workflows. Learning by breaking things. ⚙️
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-161616?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=161616&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-### 🐳 Containers & Orchestration
+<!-- ========================= NAVIGATION ========================= -->
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</a>
+**[ HOME](#-home)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[ STACK](#-toolbox)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[ PROJECTS](#-selected-work)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[ ACTIVITY](#-activity)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[ CONNECT](#-connect)**
 
-<a href="https://kubernetes.io/">
-<img src="https://img.shields.io/badge/Kubernetes-161616?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</a>
-
-<a href="https://helm.sh/">
-<img src="https://img.shields.io/badge/Helm-161616?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-### ⚙️ Infrastructure as Code
+# 🏠 HOME
 
-<p align="left">
+Hey! I'm **Divakar**.
 
-<a href="https://developer.hashicorp.com/terraform">
-<img src="https://img.shields.io/badge/Terraform-161616?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-</a>
+I'm interested in **DevOps, Cloud Infrastructure, Kubernetes,
+Automation and Linux**.
 
-<a href="https://www.ansible.com/">
-<img src="https://img.shields.io/badge/Ansible-161616?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-</a>
+I like understanding how systems work from the ground up — from
+networking and Linux to containers, orchestration and cloud.
 
-</p>
-
----
-
-### 🔄 CI/CD
-
-<p align="left">
-
-<a href="https://www.jenkins.io/">
-<img src="https://img.shields.io/badge/Jenkins-161616?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</a>
-
-<a href="https://github.com/features/actions">
-<img src="https://img.shields.io/badge/GitHub_Actions-161616?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</a>
-
-</p>
-
----
-
-### 🐧 OS & Networking
-
-<p align="left">
-
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-161616?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-161616?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</a>
-
-<a href="https://www.nginx.com/">
-<img src="https://img.shields.io/badge/Nginx-161616?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-</a>
-
-</p>
-
----
-
-### 💻 Development
-
-<p align="left">
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-161616?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</a>
-
-</p>
-
----
-
-### 🛠️ Tools
-
-<p align="left">
-
-<a href="https://www.postman.com/">
-<img src="https://img.shields.io/badge/Postman-161616?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-</a>
-
-<a href="https://www.vmware.com/">
-<img src="https://img.shields.io/badge/VMware-161616?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/VS_Code-161616?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</a>
-
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   CURRENTLY FOCUSING ON                                      │
+│                                                              │
+│   Linux              ██████████████████░░                    │
+│   Networking         ███████████████░░░░░                    │
+│   Docker             █████████████████░░░                    │
+│   Kubernetes         ████████████████░░░░                    │
+│   AWS                ████████████░░░░░░░                    │
+│   Terraform          ██████████░░░░░░░░░                    │
+│   CI/CD              ███████████░░░░░░░░                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
